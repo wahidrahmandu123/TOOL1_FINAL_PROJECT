@@ -1,9 +1,9 @@
-Final_Project: Engineering Graduate Salary Analysis
+                                                      Final_Project: Engineering Graduate Salary Analysis
 A python machine learning project to analyse and study salary patterns of a engineering graduates having impact on salary by his senior secondary percentage in India.
 
 Aims
-•Train a optimized regression model on data.
-•Study impact of percentage in senior secondary  only on Salary
+Train a optimized regression model on data.
+Study impact of percentage in senior secondary  only on Salary
 
 Context
 The discipline of engineering encompasses a broad range of more specialized fields of engineering, each with a more specific emphasis on particular areas of applied mathematics, applied science, and types of application.
@@ -13,9 +13,12 @@ India has a total 6,214 Engineering and Technology Institutions in which around 
 
 Objective
 A  question is what determines the salary and the jobs these engineers are offered right after graduation. Various factors such as college grades, candidate skills, the proximity of the college to industrial hubs, the specialization one have, market conditions for specific industries determine this. On the basis of these various factors, our objective is to determine theimpact of percentage of senior secondary on salary of an engineering graduate in India .
+Data Source:https://www.kaggle.com/datasets/manishkc06/engineering-graduate-salary-prediction 
+source of information: BWEDUCATION
 
 
 Data Description
+
 •	ID: A unique ID to identify a candidate
 •	Salary: Annual CTC offered to the candidate (in INR)
 •	Gender: Candidate's gender
